@@ -29,7 +29,7 @@ Suggestions are always welcome, including:
 - Frameworks or tools worth exploring
 - Architectural or design feedback
 
-Feel free to connect with me via LinkedIn or email to discuss ideas, improvements, or collaborations.
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sannidhya-das3/) or [email](mailto:dassannidhya003@gmail.com) to discuss ideas, improvements, or collaborations.
 
 --- 
 ## 🧪 Frameworks Explored (High-Level Overview)
@@ -78,4 +78,10 @@ https://github.com/unclecode/crawl4ai
 
 </details>
 
+---
+🧠 Repository Philosophy
+- Framework-agnostic: No single tool dominates the repository
+- Hands-on first: Emphasis on runnable examples and outputs
+- Real-world mindset: Each experiment is treated as a building block, not a toy example
+- Continuously evolving: New frameworks and techniques are added over time
 
